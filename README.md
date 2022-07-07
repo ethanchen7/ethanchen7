@@ -1,8 +1,5 @@
 ### Hi there! I'm Ethan. 👋
 
-I'm an ex-finance professional turned software engineer.
-Check out my projects below!
-
 ## Connect with me!
 <a href="https://www.linkedin.com/in/ethan-chen-3b7070127/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
