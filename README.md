@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Ethan. 👋
+
+I'm a valuation advisory analyst turned software engineer. 
 
 ## Connect with me!
 <a href="https://www.linkedin.com/in/ethan-chen-3b7070127/" target="_blank" >
